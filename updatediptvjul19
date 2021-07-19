@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png" group-title="South Korea",  KBS1
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Kbs2.png" group-title="South Korea", KBS2
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS KNN
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JIBS-DTV" tvg-name="Jeju JIBS SBS" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png" group-title="FTA" tvg-chno="156" tvh-chnum="156",Jeju JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="tving|C00551" tvg-name="tvN Korea" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00551.png" group-title="tving" tvg-chno="120" tvh-chnum="120",tving tvN Korea
+https://main.soju6jan.com/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=ooo5298ooo
+#EXTINF:-1 tvg-id="tving|C01143" tvg-name="O tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01143.png" group-title="tving" tvg-chno="122" tvh-chnum="122",tving O tvN
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=SD&apikey=0MENK2CJI5
+#EXTINF:-1 tvg-id="tving|C01141" tvg-name="XtvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01141.png" group-title="tving" tvg-chno="124" tvh-chnum="124",tving XtvN
+https://main.soju6jan.com/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=SD&apikey=ooo5298ooo
+#EXTINF:-1 tvg-id="tving|C01582" tvg-name="JTBC" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01582.png" group-title="tving" tvg-chno="125" tvh-chnum="125",tving JTBC
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C15741" tvg-name="JTBC2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15741.png" group-title="tving" tvg-chno="123" tvh-chnum="123",tving JTBC2
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C22041" tvg-name="JTBC4" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C22041.png" group-title="tving" tvg-chno="128" tvh-chnum="128",tving JTBC4
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C43242" tvg-name="SBS MTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43242.png" group-title="tving" tvg-chno="155" tvh-chnum="155",tving SBS MTV
+http://segugi.myds.me:8888/klive/api/url.m3u8?m=url&s=tving&i=C43242&q=SD&apikey=3QGM6SI6HZ
+#EXTINF:-1 tvg-id="tving|C15846" tvg-name="SBS Biz" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15846.png" group-title="tving" tvg-chno="153" tvh-chnum="153",tving SBS Biz
+http://segugi.myds.me:8888/klive/api/url.m3u8?m=url&s=tving&i=C15846&q=SD&apikey=3QGM6SI6HZ
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="Mnet" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00579.png" group-title="tving" tvg-chno="131" tvh-chnum="131",tving Mnet
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C43241" tvg-name="Nickelodeon" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43241.png" group-title="tving" tvg-chno="146" tvh-chnum="146",tving Nickelodeon
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43241&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C43342" tvg-name="THE K-POP" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43342.png" group-title="tving" tvg-chno="148" tvh-chnum="148",tving THE K-POP
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C00575" tvg-name="Olive" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00575.png" group-title="tving" tvg-chno="126" tvh-chnum="126",tving Olive
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00575&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C01142" tvg-name="ONSTYLE" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01142.png" group-title="tving" tvg-chno="135" tvh-chnum="135",tving ONSTYLE
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01142&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C01583" tvg-name="ChannelA" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01583.png" group-title="tving" tvg-chno="133" tvh-chnum="133",tving ChannelA
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C17141" tvg-name="ChannelAPlus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17141.png" group-title="tving" tvg-chno="141" tvh-chnum="141",tving ChannelAPlus
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C17141&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C43341" tvg-name="SBS F!L" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43341.png" group-title="tving" tvg-chno="147" tvh-chnum="147",tving SBS F!L
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43341&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C15846" tvg-name="SBS Biz" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15846.png" group-title="tving" tvg-chno="153" tvh-chnum="153",tving SBS Biz
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C15846&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C17142" tvg-name="MBN Plus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17142.png" group-title="tving" tvg-chno="145" tvh-chnum="145",tving MBN Plus
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C00544" tvg-name="ChunghwaTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00544.png" group-title="tving" tvg-chno="142" tvh-chnum="142",tving ChunghwaTV
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C01581" tvg-name="TV CHOSUN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01581.png" group-title="tving" tvg-chno="138" tvh-chnum="138",tving TV CHOSUN
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C00585" tvg-name="TV CHOSUN 2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00585.png" group-title="tving" tvg-chno="137" tvh-chnum="137",tving TV CHOSUN 2
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C01101" tvg-name="YTN2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01101.png" group-title="tving" tvg-chno="143" tvh-chnum="143",tving YTN2
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tving|C43342" tvg-name="THE K-POP" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43342.png" group-title="tving" tvg-chno="148" tvh-chnum="148",tving THE K-POP
+http://140.238.29.21:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=VTDDCJLC7F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" tvg-country="KR" tvg-url="" group-title="",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-country="KR" tvg-url="" group-title="Religious",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/jbjqCrN.png" tvg-country="KR" tvg-url="" group-title="Entertainment",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090006.jpg" tvg-country="KR" tvg-url="" group-title="",EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090007.png" tvg-country="KR" tvg-url="" group-title="",EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090008.png" tvg-country="KR" tvg-url="" group-title="",EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ze57sqQ.png" tvg-country="KR" tvg-url="" group-title="",EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="TBS.kr" tvg-name="TBS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" group-title="",TBS (720p)
+https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-name="YTN DMB" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="",YTN DMB (270p)
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="YTNSCIENCE.kr" tvg-name="YTN SCIENCE" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="",YTN SCIENCE (270p)
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://i.ibb.co/vhHMs7W/2000-cb-20210114083426.png" group-title="South Korea",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallypop" tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
+https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
